@@ -1,0 +1,15 @@
+{
+    "scopeName": "test-comment.injection",
+    "injectionSelector": "L:comment.line.double-slash",
+    "patterns": [
+      {
+        "include": "#test-keyword"
+      }
+    ],
+    "repository": {
+      "test-keyword": {
+        "match": "test",
+        "name": "keyword.test"
+      }
+    }
+  }

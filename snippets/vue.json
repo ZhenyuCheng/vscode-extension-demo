@@ -1,0 +1,32 @@
+{
+	"Print to vue": {
+		"prefix": "pop-vue",
+		"body": [
+			"<template>",
+			"\t<div>",
+			"$1",
+			"\t</div>",
+			"</template>",
+			"<script>",
+			"/**",
+			" * @note",
+			" * @author chengzhenyu@corp.netease.com",
+			" * @date 代码片段生成的POP单文件Vue组件",
+			" * @Last Modified by: chengzhenyu@corp.netease.com",
+			" * @Last Modified time: 2019-07-11 16:59:17",
+			" */",
+			"export default {",
+			"\tdata() {",
+			"\t\treturn {",
+			"\t\t\t$2",
+			"\t\t}",
+			"\t},",
+			"\tmethods: {",
+			"\t\t$3",
+			"\t},",
+			"}",
+			"</script>"
+		],
+		"description": "POP提示扩展"
+	}
+}

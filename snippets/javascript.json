@@ -1,0 +1,14 @@
+{
+	"Print to vue-pagination-data": {
+		"prefix": "pop-pagi-data",
+		"body": [
+			"test: {},",
+			"totalNum: 0,",
+			"pageInfo: {",
+				"\tlimit: 20,",
+				"\toffset: 0",
+			"},"
+		],
+		"description": "分页v-data"
+	}
+}
